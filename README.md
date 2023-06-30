@@ -1,0 +1,1 @@
+Profile picture is a cropped version of "AirShower.svg" by Mpfiz. License: GNU FDL 1.2 or later with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. GNU FDL 1.2 license: https://www.gnu.org/licenses/old-licenses/fdl-1.2.html Original image: https://en.wikipedia.org/wiki/File:AirShower.svg
